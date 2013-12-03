@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "PurchaseOrder";
+}
+
+<h2>PurchaseOrder</h2>
+
+<link rel="stylesheet" href="@Url.Content("~/Content/kendo.common.min.css")">
+<link rel="stylesheet" href="@Url.Content("~/Content/kendo.default.min.css")">
+<script src="@Url.Content("~/Scripts/jquery.min.js")"></script>
+<script src="@Url.Content("~/Scripts/kendo.web.min.js")"></script>
+<script src="@Url.Content("~/Scripts/kendo.aspnetmvc.min.js")"></script>
+
+@model RIACC.Models.PurchaseOrderUIViewEntity
+
+
+@Html.Kendo().AutoCompleteFor(m => m.PONumber).Placeholder("Password")

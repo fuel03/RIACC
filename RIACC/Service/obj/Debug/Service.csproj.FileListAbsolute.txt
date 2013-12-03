@@ -1,0 +1,10 @@
+C:\Users\mtan\Desktop\Docs\New folder\RIACC\Service\bin\Debug\RIACC.Service.dll
+C:\Users\mtan\Desktop\Docs\New folder\RIACC\Service\bin\Debug\RIACC.Service.pdb
+C:\Users\mtan\Desktop\Docs\New folder\RIACC\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mtan\Desktop\Docs\New folder\RIACC\Service\obj\Debug\RIACC.Service.dll
+C:\Users\mtan\Desktop\Docs\New folder\RIACC\Service\obj\Debug\RIACC.Service.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Service\bin\Debug\RIACC.Service.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Service\bin\Debug\RIACC.Service.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Service\obj\Debug\ResolveAssemblyReference.cache
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Service\obj\Debug\RIACC.Service.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Service\obj\Debug\RIACC.Service.pdb

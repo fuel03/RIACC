@@ -30,3 +30,14 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\Business\bin\Debug\EntityFramework.xml
 D:\_Marcus\Files\Projects\RIACC\RIACC\Business\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\RIACC\RIACC\Business\obj\Debug\RIACC.Business.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Business\obj\Debug\RIACC.Business.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\obj\Debug\RIACC.Business.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\obj\Debug\RIACC.Business.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\RIACC.Business.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\RIACC.Business.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\RIACC.Data.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\RIACC.Entity.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\RIACC.Data.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\RIACC.Entity.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Business\bin\Debug\EntityFramework.xml

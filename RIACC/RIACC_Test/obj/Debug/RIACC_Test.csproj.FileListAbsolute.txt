@@ -30,3 +30,19 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlSe
 D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll.config
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.pdb

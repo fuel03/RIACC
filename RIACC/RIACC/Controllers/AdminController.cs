@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace RIACC.Controllers
 {
-    public class LoginController : Controller
+    public class AdminController : Controller
     {
         //
-        // GET: /Login/
+        // GET: /Admin/
 
-        public ActionResult Login()
+        public ActionResult Home()
         {
             return View();
         }

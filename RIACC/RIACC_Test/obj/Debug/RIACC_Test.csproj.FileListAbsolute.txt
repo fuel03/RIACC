@@ -1,0 +1,32 @@
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\obj\Debug\ResolveAssemblyReference.cache
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.xml
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll.config
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll.config
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.pdb
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.pdb
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.pdb
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.pdb
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.xml
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\ResolveAssemblyReference.cache
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.dll
+D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.pdb

@@ -87,5 +87,16 @@ namespace RIACC_Test
             actual = target.UpdateTransaction(PurchaseOrder);
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod()]
+        public void canGetPurchaseOrderSummaryListTest()
+        {
+            PurchaseOrderRepository target = new PurchaseOrderRepository(); // TODO: Initialize to an appropriate value
+            DateTime selectedDate = new DateTime(2010, 1, 1);
+            IQueryable<PurchaseOrder> actual;
+            actual = target.GetPurchaseOrderSummaryList(selectedDate);
+
+            Assert.IsNotNull(actual);
+        }
     }
 }

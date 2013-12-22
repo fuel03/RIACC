@@ -30,3 +30,14 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\Business\bin\Debug\EntityFramework.xml
 D:\_Marcus\Files\Projects\RIACC\RIACC\Business\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\RIACC\RIACC\Business\obj\Debug\RIACC.Business.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Business\obj\Debug\RIACC.Business.pdb
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\RIACC.Business.dll
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\RIACC.Business.pdb
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\EntityFramework.dll
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\RIACC.Data.dll
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\RIACC.Entity.dll
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\RIACC.Data.pdb
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\RIACC.Entity.pdb
+E:\Project Files\RIACC\RIACC\Business\bin\Debug\EntityFramework.xml
+E:\Project Files\RIACC\RIACC\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\Project Files\RIACC\RIACC\Business\obj\Debug\RIACC.Business.dll
+E:\Project Files\RIACC\RIACC\Business\obj\Debug\RIACC.Business.pdb

@@ -30,3 +30,19 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlSe
 D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.pdb
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll.config
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC_Test.pdb
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Business.pdb
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Data.pdb
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\RIACC.Entity.pdb
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.xml
+E:\Project Files\RIACC\RIACC\RIACC_Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project Files\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.csprojResolveAssemblyReference.cache
+E:\Project Files\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.dll
+E:\Project Files\RIACC\RIACC\RIACC_Test\obj\Debug\RIACC_Test.pdb

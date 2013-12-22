@@ -41,6 +41,8 @@ namespace RIACC.Entity
 
         public string Remarks { get; set; }
 
+        public bool Deleted { get; set; }
+
         public virtual ICollection<PurchaseOrderDetail> PurchaseOrderDetail { get; set; }
     }
 }

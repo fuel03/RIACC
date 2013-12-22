@@ -25,6 +25,11 @@ namespace RIACC.Business
         {
             Supplier supplier = db.Supplier.SingleOrDefault(x => x.SupplierId == supplierId);
 
+            if (supplier == null)
+            {
+                throw new Exception("Supplier Does Not Exist");
+            }
+
             return supplier;
         }
 

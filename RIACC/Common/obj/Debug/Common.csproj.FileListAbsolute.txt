@@ -13,3 +13,7 @@ D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Common\bin\Debug\RIACC.Common
 D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Common\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Common\obj\Debug\RIACC.Common.dll
 D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Common\obj\Debug\RIACC.Common.pdb
+E:\Project Files\RIACC\RIACC\Common\bin\Debug\RIACC.Common.dll
+E:\Project Files\RIACC\RIACC\Common\bin\Debug\RIACC.Common.pdb
+E:\Project Files\RIACC\RIACC\Common\obj\Debug\RIACC.Common.dll
+E:\Project Files\RIACC\RIACC\Common\obj\Debug\RIACC.Common.pdb

@@ -58,3 +58,17 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\GenerateResource.read.1.tlo
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\RIACC.Data.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\RIACC.Data.pdb
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll.config
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\RIACC.Data.pdb
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\EntityFramework.dll
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.dll
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.pdb
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\EntityFramework.xml
+E:\Project Files\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project Files\RIACC\RIACC\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\Project Files\RIACC\RIACC\Data\obj\Debug\RIACC.Data.Migrations.FirstMigration.resources
+E:\Project Files\RIACC\RIACC\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\Project Files\RIACC\RIACC\Data\obj\Debug\RIACC.Data.dll
+E:\Project Files\RIACC\RIACC\Data\obj\Debug\RIACC.Data.pdb

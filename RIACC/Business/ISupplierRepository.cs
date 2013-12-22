@@ -16,6 +16,6 @@ namespace RIACC.Business
 
         string UpdateTransaction(Supplier supplier);
 
-        string DeleteTransaction(Supplier supplier)
+        string DeleteTransaction(Supplier supplier);
     }
 }

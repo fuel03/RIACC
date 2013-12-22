@@ -18,3 +18,7 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.pdb
+E:\Project Files\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.dll
+E:\Project Files\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
+E:\Project Files\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.dll
+E:\Project Files\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.pdb

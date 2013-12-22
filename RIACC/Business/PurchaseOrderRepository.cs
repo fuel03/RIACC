@@ -16,13 +16,42 @@ namespace RIACC.Business
 
         public IQueryable<PurchaseOrder> GetPurchaseOrderList()
         {
-            IQueryable<PurchaseOrder> supplier = db.PurchaseOrder.Where(x => x.Deleted == false);
-            return supplier;
+            IQueryable<PurchaseOrder> purchaseOrder = db.PurchaseOrder.Where(x => x.Deleted == false);
+            return purchaseOrder;
+        }
+
+        public IQueryable<PurchaseOrder> GetPurchaseOrderSummaryList(DateTime selectedDate)
+        {
+            IQueryable<PurchaseOrder> purchaseOrderSummaryList = db.PurchaseOrder.Where(x => x.Deleted == false && x.Date==selectedDate);
+
+            if (purchaseOrderSummaryList == null)
+            {
+                throw new Exception("No Transactions On This Date.");
+            }
+
+            return purchaseOrderSummaryList;
+        }
+
+        public IQueryable<PurchaseOrder> GetPurchaseOrderDetails(int poId)
+        {
+            IQueryable<PurchaseOrder> purchaseOrderDetails = db.PurchaseOrder.Where(x=>x.POId==poId);
+
+            if (purchaseOrderDetails == null)
+            {
+                throw new Exception("Details Not Found"); //??
+            }
+
+            return purchaseOrderDetails;
         }
 
         public PurchaseOrder GetPurchaseOrder(int poID)
         {
             PurchaseOrder purchaseOrder = db.PurchaseOrder.SingleOrDefault(x => x.POId == poID);
+
+            if (purchaseOrder == null)
+            {
+                throw new Exception("Purchase Order Does Not Exist");
+            }
 
             return purchaseOrder;
         }

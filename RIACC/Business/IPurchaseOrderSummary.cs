@@ -6,7 +6,7 @@ using RIACC.Entity;
 
 namespace RIACC.Business
 {
-    public interface IPurchaseOrderRepository
+    public interface IPurchaseOrderSummary
     {
         IQueryable<PurchaseOrder> GetPurchaseOrderSummaryList(DateTime selectedDate);
 

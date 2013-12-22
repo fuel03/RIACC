@@ -37,7 +37,7 @@ namespace RIACC.Business
             }
             catch(Exception ex)
             {
-                return ex.Message;
+                return ex.InnerException.InnerException.Message;
             }
                
         }
@@ -54,7 +54,7 @@ namespace RIACC.Business
             }
             catch (Exception ex)
             {
-                return ex.Message;
+                return ex.InnerException.InnerException.Message;
             }
         }
 
@@ -71,7 +71,7 @@ namespace RIACC.Business
             }
             catch (Exception ex)
             {
-                return ex.Message;
+                return ex.InnerException.InnerException.Message;
             }
         }
 

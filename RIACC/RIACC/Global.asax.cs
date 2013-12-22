@@ -24,9 +24,8 @@ namespace RIACC
             routes.MapRoute(
                 "Default", // Route name
                 "{controller}/{action}/{id}", // URL with parameters
-                new { controller = "PurchaseOrder", action = "PurchaseOrder", id = UrlParameter.Optional } // Parameter defaults
+                new { controller = "Home", action = "Home", id = UrlParameter.Optional } // Parameter defaults
             );
-
         }
 
         protected void Application_Start()

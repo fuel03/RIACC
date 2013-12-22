@@ -6,18 +6,12 @@ using System.Web.Mvc;
 
 namespace RIACC.Controllers
 {
-    public class HomeController : Controller
+    public class AdminController : Controller
     {
         //
-        // GET: /Home/
+        // GET: /Admin/
 
         public ActionResult Home()
-        {
-            ModelState.AddModelError("Test", "Invalid user/Password");
-            return View();
-        }
-
-        public ActionResult About()
         {
             return View();
         }

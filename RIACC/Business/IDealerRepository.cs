@@ -8,13 +8,15 @@ namespace RIACC.Business
 {
     public interface IDealerRepository
     {
-        IEnumerable<Dealer> GetDealerList();
+        IQueryable<Dealer> GetDealerList();
 
-        IEnumerable<DealerLocation> GetDealerLocationList();
+        IQueryable<DealerLocation> GetDealerLocationList(int dealerId);
 
         Dealer GetDealer(int dealerId);
+        
+        string SaveTransaction(Dealer dealer, IList<Location> locationList);
 
-        string SaveTransaction(Dealer dealer);
+        string UpdateTransaction(Dealer dealer, IList<Location> locationList);
 
         string DeleteTransaction(Dealer dealer);
     }

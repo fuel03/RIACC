@@ -13,3 +13,8 @@ D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Encryption\bin\Debug\Encrypti
 D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Encryption\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Encryption\obj\Debug\Encryption.dll
 D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Encryption\obj\Debug\Encryption.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Encryption\bin\Debug\Encryption.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Encryption\bin\Debug\Encryption.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Encryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Encryption\obj\Debug\Encryption.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Encryption\obj\Debug\Encryption.pdb

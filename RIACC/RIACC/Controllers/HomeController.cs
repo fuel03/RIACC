@@ -13,6 +13,12 @@ namespace RIACC.Controllers
 
         public ActionResult Home()
         {
+            ModelState.AddModelError("Test", "Invalid user/Password");
+            return View();
+        }
+
+        public ActionResult About()
+        {
             return View();
         }
 

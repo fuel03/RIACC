@@ -1,25 +1,10 @@
-C:\Users\mtan\Desktop\Docs\RIACC\Entity\bin\Debug\RIACC.Entity.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
-C:\Users\mtan\Desktop\Docs\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\mtan\Desktop\Docs\RIACC\Entity\obj\Debug\RIACC.Entity.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Entity\obj\Debug\RIACC.Entity.pdb
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Entity\bin\Debug\RIACC.Entity.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Entity\obj\Debug\RIACC.Entity.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Entity\obj\Debug\RIACC.Entity.pdb
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.pdb
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.pdb
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.pdb
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Entity\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Entity\obj\Debug\RIACC.Entity.pdb

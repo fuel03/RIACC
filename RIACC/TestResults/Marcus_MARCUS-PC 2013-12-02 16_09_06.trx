@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a4e3021f-74da-4cbb-8989-bba39e3efbf0" name="Marcus@MARCUS-PC 2013-12-02 16:09:06" runUser="Marcus-PC\Marcus" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="baba0f7b-763e-42eb-bc0f-096feac42419">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="Marcus_MARCUS-PC 2013-12-02 16_09_06">
+      <DeploymentItem filename="D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Business\bin\Debug\RIACC.Business.dll" />
+      <DeploymentItem filename="D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\packages\EntityFramework.6.0.1\lib\net40\EntityFramework.SqlServer.dll" />
+      <DeploymentItem filename="D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\packages\EntityFramework.6.0.1\lib\net40\EntityFramework.dll" />
+      <DeploymentItem filename="D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll" />
+      <DeploymentItem filename="D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Entity\bin\Debug\RIACC.Entity.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+        <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+          <Browser name="Internet Explorer 7.0">
+            <Headers>
+              <Header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)" />
+              <Header name="Accept" value="*/*" />
+              <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+              <Header name="Accept-Encoding" value="GZIP" />
+            </Headers>
+          </Browser>
+        </WebTestRunConfiguration>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+        <DataCollectors>
+          <DataCollector uri="datacollector://microsoft/TestImpact/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TraceCollector.TestImpactDataCollector, Microsoft.VisualStudio.TraceCollector, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Test Impact">
+          </DataCollector>
+          <DataCollector uri="datacollector://microsoft/CodeCoverage/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TestTools.CodeCoverage.CoveragePlugIn, Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Code Coverage">
+          </DataCollector>
+          <DataCollector uri="datacollector://microsoft/TraceDebugger/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TraceCollector.TraceDebuggerDataCollector, Microsoft.VisualStudio.TraceCollector, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="IntelliTrace">
+          </DataCollector>
+        </DataCollectors>
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-02T16:09:06.2853811+08:00" queuing="2013-12-02T16:09:06.6544022+08:00" start="2013-12-02T16:09:10.1466019+08:00" finish="2013-12-02T16:09:18.3930736+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="canSaveTransactionTest" storage="d:\_marcus\files\projects\r.i. arcadio\riacc\riacc\riacc_test\bin\debug\riacc_test.dll" id="30bf97a9-c93d-a8dd-9774-646b234d6a00">
+      <Execution id="f1460bec-a869-4b9b-b1a6-b36217fdc996" />
+      <TestMethod codeBase="D:/_Marcus/Files/Projects/R.I. Arcadio/RIACC/RIACC/RIACC_Test/bin/Debug/RIACC_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RIACC_Test.LocationRepositoryTest, RIACC_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="canSaveTransactionTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="30bf97a9-c93d-a8dd-9774-646b234d6a00" executionId="f1460bec-a869-4b9b-b1a6-b36217fdc996" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f1460bec-a869-4b9b-b1a6-b36217fdc996" testId="30bf97a9-c93d-a8dd-9774-646b234d6a00" testName="canSaveTransactionTest" computerName="MARCUS-PC" duration="00:00:03.8954089" startTime="2013-12-02T16:09:10.4406188+08:00" endTime="2013-12-02T16:09:15.7629232+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f1460bec-a869-4b9b-b1a6-b36217fdc996">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;success&gt;. Actual:&lt;Cannot insert duplicate key row in object 'dbo.Location' with unique index 'IX_LocationName'. The duplicate key value is (Bulacan).
+The statement has been terminated.&gt;. </Message>
+          <StackTrace>   at RIACC_Test.LocationRepositoryTest.canSaveTransactionTest() in D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\RIACC_Test\LocationRepositoryTest.cs:line 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+      <CollectorDataEntries>
+        <Collector agentName="MARCUS-PC" uri="datacollector://microsoft/TraceDebugger/1.0" collectorDisplayName="IntelliTrace">
+          <UriAttachments>
+            <UriAttachment>
+              <A href="MARCUS-PC\QTAgent32_131202_160914991_9340.iTrace">IntelliTrace file for 'QTAgent32.exe' (9340)</A>
+            </UriAttachment>
+          </UriAttachments>
+        </Collector>
+      </CollectorDataEntries>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using RIACC.Entity;
 using RIACC.Data;
-using System.Transactions;
-
+//using System.Transactions;
 
 namespace RIACC.Business
 {
@@ -30,10 +29,12 @@ namespace RIACC.Business
 
         public string Insert(DPComponent item, IList<DPComponentDetail> detailsList)
         {
+            var trans = db.Database.BeginTransaction();
+
             try
-            {
-                using (TransactionScope tran = new TransactionScope())
-                {
+            {                
+                //using (TransactionScope tran = new TransactionScope())
+                //{
                     
                     db.DPComponent.Add(item);
                     db.SaveChanges();
@@ -47,23 +48,27 @@ namespace RIACC.Business
                     }
 
                     
-                    tran.Complete();
+                  //  tran.Complete();
+                    trans.Commit();
                     return ""; 
-                }
+                //}
                    
             }
             catch(Exception ex)
             {
+                trans.Rollback();
                 return ex.InnerException.InnerException.Message;
             }
         }
 
         public string Update(DPComponent item, IList<DPComponentDetail> detailsList)
         {
+            var trans = db.Database.BeginTransaction();
+
             try
             {
-                using (TransactionScope tran = new TransactionScope())
-                {
+                //using (TransactionScope tran = new TransactionScope())
+                //{
 
                     DPComponent tmp = GetAllNonDeleted().Where(q => q.DPId == item.DPId && q.Deleted == false).FirstOrDefault();
                     if (tmp == null) { return "Cannot find DP component to delete."; }
@@ -93,22 +98,26 @@ namespace RIACC.Business
                         db.SaveChanges();
                     }
 
-                    tran.Complete();
+                    //tran.Complete();
+                    trans.Commit();
                     return "";
-                }
+                //}
             }
             catch (Exception ex)
             {
+                trans.Rollback();
                 return ex.InnerException.InnerException.Message;
             }
         }
 
         public string Delete(DPComponent item)
         {
+            var trans = db.Database.BeginTransaction();
+
             try
             {
-                using (TransactionScope tran = new TransactionScope())
-                {
+                //using (TransactionScope tran = new TransactionScope())
+                //{
 
                     DPComponent tmp = GetAllNonDeleted().Where(q => q.DPId == item.DPId && q.Deleted == false).FirstOrDefault();
                     if (tmp == null) { return "Cannot find DP component to delete."; }
@@ -127,12 +136,14 @@ namespace RIACC.Business
                         db.SaveChanges();
                     }
 
-                    tran.Complete();
-                    return "";
-                }
+                  //  tran.Complete();
+                    trans.Commit();
+                    return "";                    
+                //}
             }
             catch (Exception ex)
             {
+                trans.Rollback();
                 return ex.InnerException.InnerException.Message;
             }
         }

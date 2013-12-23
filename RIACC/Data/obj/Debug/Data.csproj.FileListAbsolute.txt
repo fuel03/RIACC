@@ -1,48 +1,18 @@
-C:\Users\mtan\Desktop\Docs\RIACC\Data\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\RIACC.Data.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\RIACC.Data.pdb
-C:\Users\mtan\Desktop\Docs\RIACC\Data\obj\Debug\RIACC.Data.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Data\obj\Debug\RIACC.Data.pdb
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\RIACC.Data.dll.config
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\EntityFramework.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\RIACC.Entity.dll
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\RIACC.Entity.pdb
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\EntityFramework.xml
-C:\Users\mtan\Desktop\Docs\RIACC\Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\mtan\Desktop\Docs\RIACC\Data\obj\Debug\RIACC.Data.Migrations.FirstMigration.resources
-C:\Users\mtan\Desktop\Docs\RIACC\Data\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\mtan\Desktop\Docs\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\RIACC.Data.dll.config
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\RIACC.Data.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\RIACC.Data.pdb
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\EntityFramework.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\RIACC.Entity.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\RIACC.Entity.pdb
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\EntityFramework.xml
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\obj\Debug\RIACC.Data.Migrations.FirstMigration.resources
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\obj\Debug\RIACC.Data.dll
-C:\Users\mtan\Desktop\Docs\New folder\RIACC\Data\obj\Debug\RIACC.Data.pdb
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll.config
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\RIACC.Data.pdb
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\EntityFramework.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.pdb
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\EntityFramework.xml
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.xml
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\obj\Debug\ResolveAssemblyReference.cache
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\obj\Debug\RIACC.Data.dll
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\obj\Debug\RIACC.Data.pdb
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\obj\Debug\RIACC.Data.Migrations.FirstMigration.resources
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\obj\Debug\GenerateResource.read.1.tlog
-D:\_Marcus\Files\Projects\R.I. Arcadio\RIACC\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll.config
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\RIACC.Data.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\EntityFramework.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.pdb
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\EntityFramework.xml
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\obj\Debug\RIACC.Data.Migrations.FirstMigration.resources
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\obj\Debug\GenerateResource.read.1.tlog
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\obj\Debug\RIACC.Data.dll
+D:\_Marcus\Files\Projects\R.I. Arcadio\OW\RIACC\RIACC\Data\obj\Debug\RIACC.Data.pdb
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll.config
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\bin\Debug\RIACC.Data.pdb
@@ -58,18 +28,3 @@ D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\GenerateResource.read.1.tlo
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\RIACC.Data.dll
 D:\_Marcus\Files\Projects\RIACC\RIACC\Data\obj\Debug\RIACC.Data.pdb
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll.config
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\RIACC.Data.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\RIACC.Data.pdb
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\EntityFramework.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\RIACC.Entity.pdb
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\EntityFramework.xml
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\obj\Debug\RIACC.Data.Migrations.FirstMigration.resources
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\obj\Debug\GenerateResource.read.1.tlog
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\obj\Debug\GenerateResource.write.1.tlog
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\obj\Debug\RIACC.Data.dll
-C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\Data\obj\Debug\RIACC.Data.pdb

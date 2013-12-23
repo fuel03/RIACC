@@ -74,7 +74,7 @@ namespace RIACC.Business
             }
         }
 
-        public string UpdateTransaction(PurchaseOrder purchaseOrder )
+        public string UpdateTransaction(PurchaseOrder purchaseOrder)
         {
             try
             {

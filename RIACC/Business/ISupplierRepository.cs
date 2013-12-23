@@ -8,7 +8,7 @@ namespace RIACC.Business
 {
     public interface ISupplierRepository
     {
-        IQueryable<Supplier> GetSupplierList;
+        IQueryable<Supplier> GetSupplierList();
 
         Supplier GetSupplier(int supplierId);
 

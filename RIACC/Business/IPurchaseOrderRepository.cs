@@ -16,7 +16,7 @@ namespace RIACC.Business
 
          string SaveTransaction(PurchaseOrder purchaseOrder);
 
-         string UpdateTransaction(PurchaseOrder purchaseOrder);
+         string UpdateTransaction(PurchaseOrder purchaseOrder); 
 
         IQueryable<PurchaseOrder> GetPurchaseOrderSummaryList(DateTime selectedDate);
 

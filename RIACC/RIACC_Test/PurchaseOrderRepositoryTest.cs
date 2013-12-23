@@ -96,7 +96,7 @@ namespace RIACC_Test
             IQueryable<PurchaseOrder> actual;
             actual = target.GetPurchaseOrderSummaryList(selectedDate);
 
-            Assert.IsNotNull(actual);
+            Assert.IsNotNull(actual); 
         }
     }
 }

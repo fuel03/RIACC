@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using RIACC.Entity;
 using RIACC.Data;
-//using System.Transactions;
+using System.Transactions;
+
 
 namespace RIACC.Business
 {
@@ -15,7 +16,7 @@ namespace RIACC.Business
         public IQueryable<DPComponent> GetAll()
         {
             IQueryable<DPComponent> enu = from tb in db.DPComponent
-                                                    select tb;
+                                          select tb;
             return enu;
         }
 
@@ -23,22 +24,20 @@ namespace RIACC.Business
         {
             IQueryable<DPComponent> enu = from tb in db.DPComponent
                                           where tb.Deleted == false
-                                            select tb;
+                                          select tb;
             return enu;
         }
 
         public string Insert(DPComponent item, IList<DPComponentDetail> detailsList)
         {
-            var trans = db.Database.BeginTransaction();
-
             try
-            {                
-                //using (TransactionScope tran = new TransactionScope())
-                //{
-                    
+            {
+                using (TransactionScope tran = new TransactionScope())
+                {
+
                     db.DPComponent.Add(item);
                     db.SaveChanges();
-                    
+
                     //insert details
                     foreach (var details in detailsList)
                     {
@@ -47,28 +46,24 @@ namespace RIACC.Business
                         db.SaveChanges();
                     }
 
-                    
-                  //  tran.Complete();
-                    trans.Commit();
-                    return ""; 
-                //}
-                   
+
+                    tran.Complete();
+                    return "";
+                }
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                trans.Rollback();
                 return ex.InnerException.InnerException.Message;
             }
         }
 
         public string Update(DPComponent item, IList<DPComponentDetail> detailsList)
         {
-            var trans = db.Database.BeginTransaction();
-
             try
             {
-                //using (TransactionScope tran = new TransactionScope())
-                //{
+                using (TransactionScope tran = new TransactionScope())
+                {
 
                     DPComponent tmp = GetAllNonDeleted().Where(q => q.DPId == item.DPId && q.Deleted == false).FirstOrDefault();
                     if (tmp == null) { return "Cannot find DP component to delete."; }
@@ -98,26 +93,22 @@ namespace RIACC.Business
                         db.SaveChanges();
                     }
 
-                    //tran.Complete();
-                    trans.Commit();
+                    tran.Complete();
                     return "";
-                //}
+                }
             }
             catch (Exception ex)
             {
-                trans.Rollback();
                 return ex.InnerException.InnerException.Message;
             }
         }
 
         public string Delete(DPComponent item)
         {
-            var trans = db.Database.BeginTransaction();
-
             try
             {
-                //using (TransactionScope tran = new TransactionScope())
-                //{
+                using (TransactionScope tran = new TransactionScope())
+                {
 
                     DPComponent tmp = GetAllNonDeleted().Where(q => q.DPId == item.DPId && q.Deleted == false).FirstOrDefault();
                     if (tmp == null) { return "Cannot find DP component to delete."; }
@@ -136,17 +127,15 @@ namespace RIACC.Business
                         db.SaveChanges();
                     }
 
-                  //  tran.Complete();
-                    trans.Commit();
-                    return "";                    
-                //}
+                    tran.Complete();
+                    return "";
+                }
             }
             catch (Exception ex)
             {
-                trans.Rollback();
                 return ex.InnerException.InnerException.Message;
             }
         }
-        
+
     }
 }

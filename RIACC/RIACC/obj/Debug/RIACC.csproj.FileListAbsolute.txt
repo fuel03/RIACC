@@ -98,3 +98,5 @@ C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RI
 C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC\obj\Debug\RIACC.dll
 C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC\obj\Debug\RIACC.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC\bin\RIACC.Common.dll
+C:\Users\acer\Documents\Visual Studio 2010\Projects\ARMED Project\RIACC\RIACC\RIACC\bin\RIACC.Common.pdb
